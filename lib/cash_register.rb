@@ -15,7 +15,8 @@ end
   
   
 def apply_discount
-  @total 
+  @total * @dicount 
+  
 end 
   
   
